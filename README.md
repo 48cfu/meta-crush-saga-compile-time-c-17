@@ -9,6 +9,4 @@ Reproduction attempt of Meta Crush Saga: a C++17 compile-time game. Reference: h
 
 ## Video for explanations: 
 
-[![Alt text](https://img.youtube.com/vi/XV1lXtB3sqg/0.jpg)](https://www.youtube.com/watch?v=XV1lXtB3sqg) 
-
 Link: https://www.youtube.com/watch?v=XV1lXtB3sqg
