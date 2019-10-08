@@ -6,6 +6,14 @@ Reproduction attempt of Meta Crush Saga: a C++17 compile-time game. Reference: h
 + Have GCC with a version > 7.x
 + to be updated
 
+## How to use in eclipse
++ File -> Import... -> Git -> Projects from Git -> Clone URI
++ Set URI https://github.com/48cfu/meta-crush-saga-compile-time-c-17.git
++ Insert you authentican details, and then click Finish
++ Select a wizard: C/C++ -> C/C++ Project
++ Templates for New C/C++ Project: Select CMake -> Empty or Existing CMake Project, then Next.
++ Choose a Project name. For example: meta-crush-saga-compile-time-c-17. Then Finish.
+
 
 ## Video for explanations: 
 
